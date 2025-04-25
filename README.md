@@ -26,7 +26,7 @@ In this game, you start a landscaping business with nothing but your teeth. You 
 
 ## My Process
 
-This was a new experience for me as I'm still learning Python (and don't know much JavaScript yet). The code works as intended but looking back, I see ways I could improve it by:
+This was a new experience for me as I'm still learning Python. The code works as intended but looking back, I see ways I could improve it by:
 
 - Making the logic more dynamic
 - Creating more scalable tool/item management
